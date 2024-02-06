@@ -1,1 +1,0 @@
-This is just to check whether commit, push and other commands are working or not.
